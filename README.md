@@ -1,4 +1,4 @@
-# DATA3710 & DATA3750 
+# DATA3710 & DATA3750  TEST
 ## Applied AI - RAG PROJECT 🤖
 Bruk av Retrieval Augmented Generation (RAG- modeller) i Utviklingen av en LLM-basert Chatbot for helserelaterte spørsmål.
 
