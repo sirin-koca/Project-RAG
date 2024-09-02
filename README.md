@@ -22,7 +22,8 @@ Det forventes at prosjektet resulterer både i en fungerende chatbot og i en rap
 
 # How does the RAG work? 
 ![how-rag-works.jpg](images/how-rag-works.jpg)
-Kilde: Bethany, Jepchumba. (2023). How RAG Works [Figur]. Microsoft.
+
+_Kilde: Bethany, Jepchumba. (2023). How RAG Works [Figur]. Microsoft_
 
 ## Fase1️⃣: DATA PREPROCESSING
 
