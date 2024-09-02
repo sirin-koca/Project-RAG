@@ -1,4 +1,4 @@
-# DATA3710 & DATA3750  TEST
+# DATA3710 & DATA3750 
 ## Applied AI - RAG PROJECT 🤖
 Bruk av Retrieval Augmented Generation (RAG- modeller) i Utviklingen av en LLM-basert Chatbot for helserelaterte spørsmål.
 
@@ -19,6 +19,10 @@ Prosjektet vil starte med å utforske hvordan man både kjører og trener lokale
 
 ### Final deliverable
 Det forventes at prosjektet resulterer både i en fungerende chatbot og i en rapport som beskriver resultater fra testkjøringer, spesielt med tanke på hallusinasjoner.
+
+# How does the RAG work? 
+![how-rag-works.jpg](images/how-rag-works.jpg)
+Kilde: Bethany, Jepchumba. (2023). How RAG Works [Figur]. Microsoft.
 
 ## Fase1️⃣: DATA PREPROCESSING
 
