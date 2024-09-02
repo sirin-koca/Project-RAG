@@ -29,5 +29,6 @@ Det er viktig å ha programmeringserfaring. Det er vanlig å bruke Python til de
 #### Additional information
 Interesse for ChatGPT og andre språkmodeller er viktig; de kan kanskje også brukes som hjelp til å finne gode løsninger.
 
+---
 
 Sirin Koca | Gruppe Project | OsloMet 2024
