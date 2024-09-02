@@ -14,7 +14,7 @@ Prosjektet vil starte med å utforske hvordan man både kjører og trener lokale
 Det forventes at prosjektet resulterer både i en fungerende chatbot og i en rapport som
 beskriver resultater fra testkjøringer, spesielt med tanke på hallusinasjoner.
 
-## Fase1: DATA PREPROCESSING
+## Fase1️⃣: DATA PREPROCESSING
 
 ## Grunnleggende Dataforberedelsesoperasjoner i et Data Science-prosjekt
 
