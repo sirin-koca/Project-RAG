@@ -62,4 +62,4 @@ EDA brukes ofte som et første skritt i dataanalyse for å forstå strukturen, f
 
 ---
 
-Sirin Koca | Gruppe Project | OsloMet 2024
+Sirin Koca | Group Project | OsloMet 2024
