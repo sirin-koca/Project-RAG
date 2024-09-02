@@ -2,7 +2,7 @@
 ## Applied AI - RAG PROJECT 🤖
 Bruk av Retrieval Augmented Generation (RAG- modeller) i Utviklingen av en LLM-basert Chatbot for helserelaterte spørsmål.
 
-## INTRO
+## Intro :.
 ### Bakgrunn og målsettinger:
 - Prosjektet er relevant for andre prosjekter innenfor CIM (https://www.oslomet.no/cim)
 - Målet er å trene en lokal språkmodell slik at den kan svare på helserelaterte problemer.
