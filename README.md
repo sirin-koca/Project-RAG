@@ -6,7 +6,7 @@ Bruk av Retrieval Augmented Generation (RAG- modeller) i Utviklingen av en LLM-b
 ### Bakgrunn og målsettinger:
 - Prosjektet er relevant for andre prosjekter innenfor CIM (https://www.oslomet.no/cim)
 - Målet er å trene en lokal språkmodell slik at den kan svare på helserelaterte problemer.
-'
+
 ### Project description
 Prosjektet vil starte med å utforske hvordan man både kjører og trener lokale språkmodeller på GPU-servere ved OsloMet. At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig aspekt er såkalte "hallusinisasjoner" hvor språkmodeller som ChatGPT kommer med svar som er fullstendig gale. Et av målene med RAG-modeller er å begrense hallusinasjoner så mye som mulig. Et viktig mål med prosjektet er å redusere mengden hallusinasjoner så mye som mulig.
 
