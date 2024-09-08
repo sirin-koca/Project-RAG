@@ -2,14 +2,16 @@
 
 **Deadline**: 20th November  (soft
 deadline) , 22th November (hard deadline!)
+
 **Team Members**: 5 (Project Manager = PM also handles documentation lead)  
+
 **Deliverables**: Functional healthcare chatbot prototype using the RAG framework and a 4-5,000 page academic report.
 
 ---
 
 ## Project Phases:
 1. **Research** (Everyone contributes)
-2. **Data Collection & Preprocessing** (Big Phase) ⚠️ **Warning:** Ensure that all data is preprocessed correctly before entering the pipeline.
+2. **Data Collection & Preprocessing** (Big Phase) ⚠️ Ensures that all data is preprocessed correctly before entering the pipeline.
 3. **Product Development & Model Testing**
 4. **Backend Development**
 5. **Frontend Development**
@@ -21,10 +23,10 @@ deadline) , 22th November (hard deadline!)
 ## Team Responsibilities:
 
 - **PM (Documentation Lead)**: Oversees the entire project, responsible for managing the timeline, documentation, and ensuring everyone stays on track.
+- **Data Preprocessing Lead**: Ensures data collection and preprocessing is correctly done and ready for the pipeline.
 - **Research Lead**: Oversees data collection, source validation, and ensures quality in the research process.
 - **Development Lead**: Responsible for product development, backend and frontend coordination.
 - **Testing Lead**: Oversees the testing, quality assurance, and comparison of models.
-- **Data Preprocessing Lead**: Ensures data collection and preprocessing is correctly done and ready for the pipeline.
 
 ---
 
