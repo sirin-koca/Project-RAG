@@ -10,30 +10,29 @@ Prosjektet vil starte med å utforske hvordan man både kjører og trener lokale
 At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig aspekt er såkalte "hallusinisasjoner" hvor språkmodeller som ChatGPT kommer med svar som er fullstendig gale. Et av målene med RAG-modeller er å begrense hallusinasjoner så mye som mulig. Et viktig mål med prosjektet er å redusere mengden hallusinasjoner så mye som mulig.
 	
 ### 1.	Project Overview:
-	•	Develop a healthcare chatbot that leverages the RAG (Retrieval-Augmented Generation) framework to generate responses based on research articles in both Norwegian and English.
-	•	The chatbot should use LLMs (Large Language Models) to generate responses while retrieving relevant documents from a vector database like Milvus.
-	•	The goal is to minimize hallucinations (incorrect or fabricated information) by grounding the responses in actual research.
+* Develop a healthcare chatbot that leverages the RAG (Retrieval-Augmented Generation) framework to generate responses based on research articles in both Norwegian and English.
+* The chatbot should use LLMs (Large Language Models) to generate responses while retrieving relevant documents from a vector database like Milvus.
+* The goal is to minimize hallucinations (incorrect or fabricated information) by grounding the responses in actual research.
 	
 ### 2.	Key Phases:
-	•	Data Collection & Preprocessing: Gathering research articles, preprocessing them for use in a vector database.
-	•	Model Testing & Evaluation: Testing different models to see how well they retrieve and generate responses.
-	•	System Integration: Integrating all components like the LLM, RAG framework, vector database (Milvus), and possibly a knowledge graph (Neo4j).
-	•	Chatbot Development: Building the actual chatbot to interact with users in both English and Norwegian.
+* Data Collection & Preprocessing: Gathering research articles, preprocessing them for use in a vector database.
+* Model Testing & Evaluation: Testing different models to see how well they retrieve and generate responses.
+* System Integration: Integrating all components like the LLM, RAG framework, vector database (Milvus), and possibly a knowledge graph (Neo4j).
+* Chatbot Development: Building the actual chatbot to interact with users in both English and Norwegian.
 	
 ### 3.	Final Deliverable:
-	•	A functional healthcare chatbot.
-	•	A 4-5,000-page academic report detailing the process, findings, architecture, and conclusions.
-
+* A functional healthcare chatbot.
+* A 4-5,000-page academic report detailing the process, findings, architecture, and conclusions.
 * Det forventes at prosjektet resulterer både i en fungerende chatbot og i en rapport som beskriver resultater fra testkjøringer, spesielt med tanke på hallusinasjoner.
 
 ### Main Components:
 
-	1.	User Interface: Where users interact with the chatbot.
-	2.	API Gateway: A middleware that connects the front-end (UI) with the back-end logic.
-	3.	RAG Framework: A combination of retrieval and generation steps for answering user queries.
-	4.	Vector Database (Milvus): Stores the embeddings of documents for retrieval.
-	5.	LLM (Language Model): Generates the response using the retrieved documents.
-	6.	Knowledge Graph (Optional): Neo4j, used for more structured data querying.
+**1. User Interface**: Where users interact with the chatbot.
+**2. API Gateway**: A middleware that connects the front-end (UI) with the back-end logic.
+**3. RAG Framework**: A combination of retrieval and generation steps for answering user queries.
+**4. Vector Database** (Milvus): Stores the embeddings of documents for retrieval.
+**5. LLM (Large Language Model)**: Generates the response using the retrieved documents.
+**6. Knowledge Graph** (Optional): Neo4j, used for more structured data querying.
 
 ### Team members: 
 * Sirin Koca,
