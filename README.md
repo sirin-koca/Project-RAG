@@ -48,11 +48,11 @@ At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig as
 
 # Tentative System Architecture
 
-### Data Pipeline:
+### Data Pipeline: 
 User → API Gateway → Language Detection → Query → Embeddings Model → Vector Database → RAG Context Generation → LLM → Response → Hallucination Testing → User Output.
 
 ## How does it work? 
-![rag-system-diagram.svg](diagrams/rag-system-diagram.svg)
+![rag.png](diagrams/rag.png)
 
 Markovate. (n.d.). Advanced RAG techniques, 2024. [Markovate](https://markovate.com/blog/advanced-rag-techniques/)
 
