@@ -13,7 +13,7 @@ At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig as
 * The chatbot should use LLMs (Large Language Models) to generate responses while retrieving relevant documents from a vector database like Milvus.
 * The goal is to minimize hallucinations (incorrect or fabricated information) by grounding the responses in actual research.
 	
-### 2.	Key Phases:
+### 2.	Key Phases in the project:
 * Data Collection & Preprocessing: Gathering research articles, preprocessing them for use in a vector database.
 * Model Testing & Evaluation: Testing different models to see how well they retrieve and generate responses.
 * System Integration: Integrating all components like the LLM, RAG framework, vector database (Milvus), and possibly a knowledge graph (Neo4j).
@@ -24,7 +24,7 @@ At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig as
 * A 4-5,000-page academic report detailing the process, findings, architecture, and conclusions.
 * Det forventes at prosjektet resulterer både i en fungerende chatbot og i en rapport som beskriver resultater fra testkjøringer, spesielt med tanke på hallusinasjoner.
 
-### Main Components:
+### Main Components of the MVP:
 
 1. **User Interface**: Where users interact with the chatbot.
 2. **API Gateway**: A middleware that connects the front-end (UI) with the back-end logic.
