@@ -1,6 +1,5 @@
-# RAG Framework
-## DATA3710 - IT Project
-## DATA3750 - Applied AI & Data Science Project
+# Healthcare Chatbot with RAG Framework
+### DATA3710 & DATA3750 - Applied AI & Data Science Project
 
 ### Project title: 
 Bruk av Retrieval Augmented Generation (RAG- modeller) i Utviklingen av en LLM-basert Chatbot for helserelaterte spørsmål.
