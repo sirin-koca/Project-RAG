@@ -20,7 +20,7 @@ Prosjektet vil starte med å utforske hvordan man både kjører og trener lokale
 Det forventes at prosjektet resulterer både i en fungerende chatbot og i en rapport som beskriver resultater fra testkjøringer, spesielt med tanke på hallusinasjoner.
 
 # How does the RAG work? 
-![rag-system-diagram.svg](diagrams/rag-system-diagram.svg)
+![rag-system-architecture.jpg](diagrams/rag-system-architecture.jpg)![rag-system-diagram.jpg](diagrams/rag-system-diagram.jpg)
 Markovate. (n.d.). Advanced RAG techniques, 2024. [Markovate](https://markovate.com/blog/advanced-rag-techniques/)
 
 ## Fase1️⃣: DATA PREPROCESSING
