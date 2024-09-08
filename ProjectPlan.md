@@ -1,6 +1,6 @@
 # Project Plan: RAG Framework for Healthcare Chatbot
 
-**Deadline**: 20th November  
+**Deadline**: 20th November  (soft) , 22th November (hard) ::warning
 **Team Members**: 5 (Project Manager = PM also handles documentation lead)  
 **Deliverables**: Functional healthcare chatbot prototype using the RAG framework and a 4-5,000 page academic report.
 
