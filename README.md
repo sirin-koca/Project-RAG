@@ -5,7 +5,9 @@
 Bruk av Retrieval Augmented Generation (RAG- modeller) i Utviklingen av en LLM-basert Chatbot for helserelaterte spørsmål.
 
 **Deadline**: 20.November (soft) , 22.November (hard)
+
 **Team Members**: 5 (Project Manager = PM also handles documentation lead)  
+
 **Deliverables**: Functional healthcare chatbot prototype using the RAG framework and a 4-5,000 page academic report.
 
 ### Project description: 
