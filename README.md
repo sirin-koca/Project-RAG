@@ -46,8 +46,9 @@ At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig as
 * Younes Benhaida
 
 
-# Tentative System Architecture & Data Pipeline
+# Tentative System Architecture
 
+### Data Pipeline:
 User → API Gateway → Language Detection → Query → Embeddings Model → Vector Database → RAG Context Generation → LLM → Response → Hallucination Testing → User Output.
 
 ## How does it work? 
