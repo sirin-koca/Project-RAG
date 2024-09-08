@@ -1,6 +1,6 @@
 # Project Plan: RAG Framework for Healthcare Chatbot
 
-**Deadline**: 20th November  (soft) , 22th November (hard) **Warning**
+**Deadline**: 20th November  (soft) , 22th November (hard) **:Warning** 
 **Team Members**: 5 (Project Manager = PM also handles documentation lead)  
 **Deliverables**: Functional healthcare chatbot prototype using the RAG framework and a 4-5,000 page academic report.
 
@@ -8,7 +8,7 @@
 
 ## Project Phases:
 1. **Research** (Everyone contributes)
-2. **Data Collection & Preprocessing** (Big Phase)
+2. **Data Collection & Preprocessing** (Big Phase) ⚠️ **Warning:** Ensure that all data is preprocessed correctly before entering the pipeline.
 3. **Product Development & Model Testing**
 4. **Backend Development**
 5. **Frontend Development**
