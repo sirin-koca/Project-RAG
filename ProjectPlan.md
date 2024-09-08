@@ -22,7 +22,7 @@ deadline) , 22th November (hard deadline!)
 
 ## Team Responsibilities:
 
-- **PM (Documentation Lead)**: Oversees the entire project, responsible for managing the timeline, documentation, and ensuring everyone stays on track.
+- **Project and Documentation Lead**: Oversees the entire project, responsible for managing the timeline, documentation and successful final delivery, and ensuring everyone stays on track.
 - **Data Preprocessing Lead**: Ensures data collection and preprocessing is correctly done and ready for the pipeline.
 - **Research Lead**: Oversees data collection, source validation, and ensures quality in the research process.
 - **Development Lead**: Responsible for product development, backend and frontend coordination.
