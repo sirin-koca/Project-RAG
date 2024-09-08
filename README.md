@@ -35,8 +35,8 @@ At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig as
 
 
 ### 3.	Final Deliverable:
-•	A functional healthcare chatbot.
-•	A 4-5,000-page academic report detailing the process, findings, architecture, and conclusions.
+* A functional healthcare chatbot.
+* A 4-5,000-page academic report detailing the process, findings, architecture, and conclusions.
 
 * Det forventes at prosjektet resulterer både i en fungerende chatbot og i en rapport som beskriver resultater fra testkjøringer, spesielt med tanke på hallusinasjoner.
 
