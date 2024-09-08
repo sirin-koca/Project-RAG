@@ -43,7 +43,7 @@ At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig as
 
 # RAG Framework - system architecture
 
-	User → API Gateway → Language Detection → Query → Embeddings Model → Vector Database → RAG Context Generation → LLM → Response → Hallucination Testing → User Output.
+User → API Gateway → Language Detection → Query → Embeddings Model → Vector Database → RAG Context Generation → LLM → Response → Hallucination Testing → User Output.
 
 
 ![how-rag-works.jpg](images/how-rag-works.jpg)
