@@ -2,13 +2,18 @@
 ## DATA3710 & DATA3750 - Applied AI & Data Science Project
 
 ### Project title: 
-Bruk av Retrieval Augmented Generation (RAG- modeller) i Utviklingen av en LLM-basert Chatbot for helserelaterte spørsmål.
+Bruk av Retrieval Augmented Generation (RAG- modeller) i Utviklingen av en LLM-basert Chatbot for helserelaterte spørsmål. 
 
 **Deadline**: 20.November (soft) , 22.November (hard)
 
-**Team Members**: 5 (Project Manager = PM also handles documentation lead)  
+**Deliverables**: Functional healthcare chatbot prototype (MVP) using the RAG framework, and a 4-5.000 page academic report.
 
-**Deliverables**: Functional healthcare chatbot prototype using the RAG framework and a 4-5,000 page academic report.
+### Team members: 
+* Sirin Koca,
+* Morten Nilsen,
+* Valerie Smidt,
+* Rafey-Ul-Islam-Afzal,
+* Younes Benhaida
 
 ### Project description: 
 Prosjektet vil starte med å utforske hvordan man både kjører og trener lokale språkmodeller på GPU-servere ved OsloMet. 
@@ -42,14 +47,6 @@ At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig as
 4.	**Vector Database** (Milvus): Stores the embeddings of documents for retrieval.
 5.	**LLM (Large Language Model)**: Generates the response using the retrieved documents.
 6.	**Knowledge Graph** (Optional): Neo4j, used for more structured data querying.
-
-### Team members: 
-* Sirin Koca,
-* Morten Nilsen,
-* Valerie Smidt,
-* Rafey-Ul-Islam-Afzal,
-* Younes Benhaida
-
 
 # Tentative System Architecture
 
