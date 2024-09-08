@@ -2,11 +2,18 @@
 ## DATA3710 & DATA3750 - Applied AI & Data Science Project
 
 ### Project title: 
-Bruk av Retrieval Augmented Generation (RAG- modeller) i Utviklingen av en LLM-basert Chatbot for helserelaterte spørsmål.
+Bruk av Retrieval Augmented Generation (RAG- modeller) i Utviklingen av en LLM-basert Chatbot for helserelaterte spørsmål. 
 
 **Deadline**: 20.November (soft) , 22.November (hard)
 
-**Deliverables**: Functional healthcare chatbot prototype using the RAG framework and a 4-5,000 page academic report.
+**Deliverables**: Functional healthcare chatbot prototype (MVP) using the RAG framework, and a 4-5.000 page academic report.
+
+### Team members: 
+* Sirin Koca,
+* Morten Nilsen,
+* Valerie Smidt,
+* Rafey-Ul-Islam-Afzal,
+* Younes Benhaida
 
 ### Team members: 
 * Sirin Koca,
