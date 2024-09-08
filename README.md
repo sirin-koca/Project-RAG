@@ -89,11 +89,11 @@ EDA brukes ofte som et første skritt i dataanalyse for å forstå strukturen, f
      - **Skalering/Normalisering:** Anvende skalering (f.eks. Min-Max Scaling, Standard Scaling) på numerisk data for å sikre at den passer innenfor et standardområde, noe som er avgjørende for mange maskinlæringsalgoritmer.
      - **Vektorisering:** Tekstdata kan konverteres til numeriske vektorer (vector embeddings) ved hjelp av teknikker som TF-IDF, Word2Vec, eller BERT-innbygginger.
 ```
-### Fase2: Model choice & eval
-### Fase3: System integration
-### Fase4: Chatbot development: Backend and Frontend
-### Fase5: Testing - Pytest
-### Fase6: Final delivery
+### Fase2️⃣: Model choice & eval
+### Fase3️⃣: System integration
+### Fase4️⃣: Chatbot development: Backend and Frontend
+### Fase5️⃣: Testing - Pytest
+### Fase6️⃣: Final delivery
 
 ---
 
