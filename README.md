@@ -43,7 +43,11 @@ At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig as
 * Younes Benhaida
 
 
-# How does the RAG work? 
+# RAG Framework - system architecture
+
+	User → API Gateway → Language Detection → Query → Embeddings Model → Vector Database → RAG Context Generation → LLM → Response → Hallucination Testing → User Output.
+
+
 ![how-rag-works.jpg](images/how-rag-works.jpg)
 
 _Kilde: Bethany, Jepchumba. (2023). How RAG Works [Figur]. Microsoft_
