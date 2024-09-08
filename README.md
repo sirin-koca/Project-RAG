@@ -1,4 +1,4 @@
-# RAG Framework
+# Healtcare Chatbot with RAG Framework
 ## DATA3710 - IT Project
 ## DATA3750 - Applied AI & Data Science Project
 
