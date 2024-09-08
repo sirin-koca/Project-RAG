@@ -15,32 +15,37 @@ Bruk av Retrieval Augmented Generation (RAG- modeller) i Utviklingen av en LLM-b
 * Rafey-Ul-Islam-Afzal,
 * Younes Benhaida
 
+### Team members: 
+* Sirin Koca,
+* Morten Nilsen,
+* Valerie Smidt,
+* Rafey-Ul-Islam-Afzal,
+* Younes Benhaida
+
+
 ### Project description: 
 Prosjektet vil starte med å utforske hvordan man både kjører og trener lokale språkmodeller på GPU-servere ved OsloMet. 
 At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig aspekt er såkalte "hallusinisasjoner" hvor språkmodeller som ChatGPT kommer med svar som er fullstendig gale. Et av målene med RAG-modeller er å begrense hallusinasjoner så mye som mulig. Et viktig mål med prosjektet er å redusere mengden hallusinasjoner så mye som mulig.
 	
-### 1.	Project Overview:
+### Project Overview:
 * Develop a healthcare chatbot that leverages the RAG (Retrieval-Augmented Generation) framework to generate responses based on research articles in both Norwegian and English.
 * The chatbot should use LLMs (Large Language Models) to generate responses while retrieving relevant documents from a vector database like Milvus.
 * The goal is to minimize hallucinations (incorrect or fabricated information) by grounding the responses in actual research.
 
-### 2.	Key Phases:
-* Data Collection & Preprocessing: Gathering research articles, preprocessing them for use in a vector database.
-* Model Choice, Testing & Evaluation: Testing different models to see how well they retrieve and generate responses.
-* System Integration: Integrating all components like the LLM, RAG framework, vector database (Milvus), and possibly a knowledge graph (Neo4j).
-* Chatbot Development (Backend & Frontend): Building the actual chatbot to interact with users in both English and Norwegian.
-* Testing of the final product (MVP): Pytest 
-* Final delivery of the product and the academic report
+### Key Phases:
+* Fase 1. Data Collection & Preprocessing: Gathering research articles, preprocessing them for use in a vector database.
+* Fase 2. Model Choice, Testing & Evaluation: Testing different models to see how well they retrieve and generate responses.
+* Fase 3. System Integration: Integrating all components like the LLM, RAG framework, vector database (Milvus), and possibly a knowledge graph (Neo4j).
+* Fase 4. Chatbot Development (Backend & Frontend): Building the actual chatbot to interact with users in both English and Norwegian.
+* Fase 5. Testing of the final product (MVP): Pytest 
+* Fase 6. Final delivery of the product and the academic report
 
-
-### 3.	Final Deliverable:
-•	A functional healthcare chatbot.
-•	A 4-5,000-page academic report detailing the process, findings, architecture, and conclusions.
-
+### Final Deliverable:
+* A functional healthcare chatbot protptype (MVP).
+* A 4-5,000-page academic report detailing the process, findings, architecture, and conclusions.
 * Det forventes at prosjektet resulterer både i en fungerende chatbot og i en rapport som beskriver resultater fra testkjøringer, spesielt med tanke på hallusinasjoner.
 
 ### Main Components of the MVP:
-
 1.	**User Interface**: Where users interact with the chatbot.
 2.	**API Gateway**: A middleware that connects the front-end (UI) with the back-end logic.
 3.	**RAG Framework**: A combination of retrieval and generation steps for answering user queries.
@@ -49,7 +54,6 @@ At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig as
 6.	**Knowledge Graph** (Optional): Neo4j, used for more structured data querying.
 
 # Tentative System Architecture
-
 ### Data Pipeline: 
 User → API Gateway → Language Detection → Query → Embeddings Model → Vector Database → RAG Context Generation → LLM → Response → Hallucination Testing → User Output.
 
