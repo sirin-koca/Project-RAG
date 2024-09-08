@@ -60,6 +60,8 @@ User → API Gateway → Language Detection → Query → Embeddings Model → V
 ![rag.png](diagrams/rag.png)
 _Markovate. (n.d.). Advanced RAG techniques, 2024. [Markovate](https://markovate.com/blog/advanced-rag-techniques/)_
 
+---
+
 ## Fase1️⃣: DATA COLLECTION and PREPROCESSING
 ```
 Grunnleggende Dataforberedelses-operasjoner i et Data Science-prosjekt
