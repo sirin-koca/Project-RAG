@@ -26,12 +26,12 @@ At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig as
 
 ### Main Components:
 
-**1. User Interface**: Where users interact with the chatbot.
-**2. API Gateway**: A middleware that connects the front-end (UI) with the back-end logic.
-**3. RAG Framework**: A combination of retrieval and generation steps for answering user queries.
-**4. Vector Database** (Milvus): Stores the embeddings of documents for retrieval.
-**5. LLM (Large Language Model)**: Generates the response using the retrieved documents.
-**6. Knowledge Graph** (Optional): Neo4j, used for more structured data querying.
+1. **User Interface**: Where users interact with the chatbot.
+2. **API Gateway**: A middleware that connects the front-end (UI) with the back-end logic.
+3. **RAG Framework**: A combination of retrieval and generation steps for answering user queries.
+4. **Vector Database** (Milvus): Stores the embeddings of documents for retrieval.
+5. **LLM (Large Language Model)**: Generates the response using the retrieved documents.
+6. **Knowledge Graph** (Optional): Neo4j, used for more structured data querying.
 
 ### Team members: 
 * Sirin Koca,
