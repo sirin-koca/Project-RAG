@@ -21,7 +21,8 @@ Det forventes at prosjektet resulterer både i en fungerende chatbot og i en rap
 
 # How does the RAG work? 
 ![rag-system-diagram.svg](diagrams/rag-system-diagram.svg)
-Markovate. (n.d.). Advanced RAG techniques, 2024. [Markovate](https://markovate.com/blog/advanced-rag-techniques/)
+
+Kilde: Markovate. (n.d.). Advanced RAG techniques, 2024. [Markovate](https://markovate.com/blog/advanced-rag-techniques/)
 
 ## Fase1️⃣: DATA PREPROCESSING
 
