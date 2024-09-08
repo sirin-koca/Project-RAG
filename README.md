@@ -60,35 +60,39 @@ _Markovate. (n.d.). Advanced RAG techniques, 2024. [Markovate](https://markovate
 
 ## Fase1️⃣: DATA COLLECTION and PREPROCESSING
 ```
-## Grunnleggende Dataforberedelses-operasjoner i et Data Science-prosjekt
+Grunnleggende Dataforberedelses-operasjoner i et Data Science-prosjekt
 
-### 1. **Datavask**
-   - **Håndtering av Manglende Data:** Identifisere og håndtere manglende data ved enten å fylle ut, interpolere, eller fjerne rader/kolonner.
-     - **Outlier Deteksjon:** Identifisere og potensielt fjerne avvik som kan påvirke modellens ytelse negativt.
-     - **Datakonvertering:** Sikre at all data har riktig format (f.eks. konvertering av strenger til datoer eller tall).
-     - **Tekstnormalisering:** For tekstdata, kan normalisering innebære å endre til små bokstaver, fjerne tegnsetting, og stemming/lemmatisering.
+1. Datavask
+Håndtering av Manglende Data: Identifisere og håndtere manglende data ved enten å fylle ut, interpolere, eller fjerne rader/kolonner.
+Outlier Deteksjon: Identifisere og potensielt fjerne avvik som kan påvirke modellens ytelse negativt.
+Datakonvertering: Sikre at all data har riktig format (f.eks. konvertering av strenger til datoer eller tall).
+Tekstnormalisering: For tekstdata, kan normalisering innebære å endre til små bokstaver, fjerne tegnsetting, og stemming/lemmatisering.
 
-### 2. **Utforskende Dataanalyse (EDA: Exploratory Data Analysis)**
-Dette er en prosess der vi analyserer og visualiserer data for å oppdage mønstre, oppsummere hovedkarakteristikker, og sjekke for avvik eller manglende data. 
-EDA brukes ofte som et første skritt i dataanalyse for å forstå strukturen, fordelingen, og forholdene i datasettet før vi går videre til mer avanserte analysemetoder eller modellering.
+2. Utforskende Dataanalyse (EDA: Exploratory Data Analysis)
+Dette er en prosess der vi analyserer og visualiserer data for å oppdage mønstre, oppsummere hovedkarakteristikker, og sjekke for avvik eller
+manglende data. EDA brukes ofte som et første skritt i dataanalyse for å forstå strukturen, fordelingen, og forholdene i datasettet før vi går
+videre til mer avanserte analysemetoder eller modellering.
 
-   - **Grunnleggende Statistikk:** Beregne beskrivende statistikk som gjennomsnitt, median, modus, og standardavvik.
-     - **Visualiseringer:** Lage grunnleggende diagrammer (f.eks. histogrammer, boksdiagrammer) for å forstå datadistribusjoner og forhold mellom variabler.
-     - **Korrelasjonsanalyse:** Analysere korrelasjoner mellom ulike variabler for å identifisere potensielle sammenhenger som kan være nyttige for modellering.
+Grunnleggende Statistikk: Beregne beskrivende statistikk som gjennomsnitt, median, modus, og standardavvik.
+Visualiseringer: Lage grunnleggende diagrammer (f.eks. histogrammer, boksdiagrammer) for å forstå datadistribusjoner og forhold mellom variabler.
+Korrelasjonsanalyse: Analysere korrelasjoner mellom ulike variabler for å identifisere potensielle sammenhenger som kan være nyttige for modellering.
 
-### 3. **Dataintegrasjon**
-   - **Sammenslåing av Datasett:** Kombinere ulike datasett (f.eks. slå sammen akademiske artikler med emnetagger) basert på en felles nøkkel eller indeks.
-     - **Dataaggregering:** Aggregere data på forskjellige nivåer (f.eks. månedlige gjennomsnitt) for å forstå trender eller for tidsserieanalyse.
+3. Dataintegrasjon
+Sammenslåing av Datasett: Kombinere ulike datasett (f.eks. slå sammen akademiske artikler med emnetagger) basert på en felles nøkkel eller indeks.
+Dataaggregering: Aggregere data på forskjellige nivåer (f.eks. månedlige gjennomsnitt) for å forstå trender eller for tidsserieanalyse.
 
-### 4. **Datafiltrering og Sampling**
-   - **Filtrering av Relevant Data:** Behold kun data som er relevant for prosjektets omfang, som f.eks. å velge spesifikke AI-emner, rammeverk eller ML-modeller.
-     - **Datasampling:** I tilfelle av store datasett kan sampling være nødvendig for å gjøre beregninger mer håndterbare under innledende eksperimenter.
+4. Datafiltrering og Sampling
+Filtrering av Relevant Data: Behold kun data som er relevant for prosjektets omfang, som f.eks. å velge spesifikke AI-emner, rammeverk eller ML-modeller.
+Datasampling: I tilfelle av store datasett kan sampling være nødvendig for å gjøre beregninger mer håndterbare under innledende eksperimenter.
 
-### 5. **Datatransformasjon**
-   - **Funksjonsutvikling:** Skape nye funksjoner som kan forbedre modellens ytelse, som å trekke ut nøkkelord, oppsummere tekst, eller lage dummyvariabler fra kategoriske data.
-     - **Skalering/Normalisering:** Anvende skalering (f.eks. Min-Max Scaling, Standard Scaling) på numerisk data for å sikre at den passer innenfor et standardområde, noe som er avgjørende for mange maskinlæringsalgoritmer.
-     - **Vektorisering:** Tekstdata kan konverteres til numeriske vektorer (vector embeddings) ved hjelp av teknikker som TF-IDF, Word2Vec, eller BERT-innbygginger.
+5. Datatransformasjon
+Funksjonsutvikling: Skape nye funksjoner som kan forbedre modellens ytelse, som å trekke ut nøkkelord, oppsummere tekst, eller lage dummyvariabler fra kategoriske data.
+Skalering/Normalisering: Anvende skalering (f.eks. Min-Max Scaling, Standard Scaling) på numerisk data for å sikre at den passer innenfor et standardområde,
+noe som er avgjørende for mange maskinlæringsalgoritmer.
+Vektorisering: Tekstdata kan konverteres til numeriske vektorer (vector embeddings) ved hjelp av teknikker som TF-IDF, Word2Vec, eller BERT-innbygginger.
+
 ```
+
 ### Fase2️⃣: Model choice & eval
 ### Fase3️⃣: System integration
 ### Fase4️⃣: Chatbot development: Backend and Frontend
