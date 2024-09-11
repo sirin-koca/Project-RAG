@@ -47,7 +47,6 @@ At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig as
 
 # Tentative System Architecture
 
-### NAVATAR-Helper
 ![NAVATAR-Helper.png](diagrams/NAVATAR-Helper-diagram.png)
 ### Data Pipeline in RAG: 
 User → API Gateway → Language Detection → Query → Embeddings Model → Vector Database → RAG Context Generation → LLM → Response → Hallucination Testing → User Output.
