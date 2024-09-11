@@ -46,10 +46,13 @@ At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig as
 6.	**Knowledge Graph** (Optional): Neo4j, used for more structured data querying.
 
 # Tentative System Architecture
-### Data Pipeline: 
+
+### NAVATAR-Helper
+![NAVATAR-Helper.png](diagrams/NAVATAR-Helper.png)
+### Data Pipeline in RAG: 
 User → API Gateway → Language Detection → Query → Embeddings Model → Vector Database → RAG Context Generation → LLM → Response → Hallucination Testing → User Output.
 
-## How does it work? 
+## RAG Framework (Naive RAG) 
 ![rag.png](diagrams/rag.png)
 _Markovate. (n.d.). Advanced RAG techniques, 2024. [Markovate](https://markovate.com/blog/advanced-rag-techniques/)_
 
