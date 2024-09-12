@@ -25,12 +25,12 @@ At modellene er lokale er avgjørende med tanke på sensitive data. Et viktig as
 * The goal is to minimize hallucinations (incorrect or fabricated information) by grounding the responses in actual research.
 
 ### Key Phases:
-* Fase 1. Data Collection & Preprocessing: Gathering research articles, preprocessing them for use in a vector database.
-* Fase 2. Model Choice, Testing & Evaluation: Testing different models to see how well they retrieve and generate responses.
-* Fase 3. System Integration: Integrating all components like the LLM, RAG framework, vector database (Milvus), and possibly a knowledge graph (Neo4j).
-* Fase 4. Chatbot Development (Backend & Frontend): Building the actual chatbot to interact with users in both English and Norwegian.
-* Fase 5. Testing of the final product (MVP): Pytest 
-* Fase 6. Final delivery of the product and the academic report
+* **1. Data Collection & Preprocessing**: Gathering research articles, preprocessing them for use in a vector database.
+* **2. Model Choice, Testing & Evaluation**: Testing different models (embedding models, retrievers and generators) to see how well they retrieve and generate responses.
+* **3. System Integration**: Integrating all components like the LLM, RAG framework, vector database (Milvus), and possibly a frontend UIX.
+* **4. Chatbot Development**: Building the actual chatbot to interact with users in both English and Norwegian. (Agentic workflow)
+* **5. Testing**: Benchmarking, evaluating the final product (MVP) with Pytest, based on success metrics. 
+* **6. Deployement**: Final delivery of the product and the academic report
 
 ### Final Deliverable:
 * A functional healthcare chatbot protptype (MVP).
