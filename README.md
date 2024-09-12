@@ -100,5 +100,5 @@ Vektorisering: Tekstdata kan konverteres til numeriske vektorer (vector embeddin
 
 ---
 
-Sirin Koca | Group Project | OsloMet 2024
+Sirin Koca | Group Project | OsloMet © 2024
 
